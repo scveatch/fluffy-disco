@@ -7,3 +7,5 @@ One notable aspect of the dataset is the presence of imbalanced classes, where t
 The goal of the CNN approach is to accurately classify skin lesions, which requires distinguishing between fine-grained categories. Dermatologists are only able to visually identify skin lesions 46% ~ 54% of the time. By training a single CNN using only image pixels and labels as inputs, our approach achieves comparable performance to state-of-the-art models.
 
 Overall, the CNN model applied to the HAM10000 dataset demonstrates the effectiveness of deep learning in image classification tasks, specifically for identifying and classifying skin lesions. It showcases the potential for leveraging advanced machine learning techniques to improve diagnostic accuracy in dermatology.
+
+
