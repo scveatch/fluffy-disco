@@ -5,3 +5,5 @@ tensorflow
 scikit-learn
 matplotlib
 seaborn
+imblearn
+scikit-image
